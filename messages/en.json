@@ -1,0 +1,264 @@
+{
+"header": {
+  "nav": {
+    "home": "Home",
+    "about": "Our Story",
+    "team": "Team",
+    "locations": "Locations",
+    "menu": "Menu",
+    "contact": "Contact"
+  },
+  "cta": {
+    "book": "Book a Table"
+  },
+  "mobile": {
+    "subtitle": "cafe & restaurant"
+  }
+},
+  "HeroSection": {
+    "name": "Eiffelya",
+    "tagline": "Where European Elegance Meets Aleppo’s Warmth",
+    "description": "A refined family dining experience in the heart of Aleppo, serving a masterful blend of Eastern and Western cuisine with a modern touch of luxury.",
+    "cta": {
+      "reserve": "Reserve a Table",
+      "menu": "Explore Our Menu"
+    }
+  },
+  "StoryPreview": {
+    "label": "Our Story",
+    "title": "A New Concept of Family Luxury",
+    "description": "We didn’t just open a restaurant; we created a space that balances sophisticated design with a cozy family atmosphere. At Eiffelya, we believe the perfect meal is served in a place that feels both premium and welcoming.",
+    "stats": {
+      "experience": "Refined Taste",
+      "locations": "Heart of Aleppo",
+      "partners": "Fresh Ingredients"
+    },
+    "readMore": "Read Our Full Story"
+  },
+  "MenuPreview": {
+    "label": "From Our Kitchen",
+    "title": "Eiffelya’s Signature Selection",
+    "description": "Dishes that define the Eiffelya experience — each one a labor of passion, crafted with the finest ingredients to satisfy your refined taste.",
+    "view": "Explore Our Menu"
+  },
+"Testimonials": {
+  "label": "What Our Guests Say",
+  "title": "Stories from Our Table",
+  "description": "Nothing means more to us than the memories our guests take home.",
+  "items": [
+    {
+      "quote": "The place is breathtaking, and the burgers are top-notch. Truly a premium experience and very clean food.",
+      "author": "Samer A.",
+      "location": "Al-Shahba",
+      "rating": 5
+    },
+    {
+      "quote": "Finally, a sophisticated place in Aleppo where we can bring the family and feel comfortable. The vibe is chill and the luxury is evident.",
+      "author": "Lina K.",
+      "location": "Al-Muhafaza",
+      "rating": 5
+    },
+    {
+      "quote": "The Neapolitan pizza is a dream, reminded me of Italy. The decor and details are just beautiful; a must-visit.",
+      "author": "M. & Rima",
+      "location": "Al-Shahba",
+      "rating": 5
+    },
+    {
+      "quote": "The service is very professional and the food is delicious and hot. We had a family event and everything was perfect.",
+      "author": "Ahmad H.",
+      "location": "New Aleppo",
+      "rating": 5
+    }
+  ]
+},
+  "OurStoryPage": {
+    "label": "Our Journey",
+    "title": "Eiffelya: A Passion for Excellence in Aleppo",
+"description": "In the heart of Aleppo, Eiffelya blends European elegance with the warmth of Aleppian hospitality for an exceptional dining experience.",
+    "section1": {
+      "label": "The Beginning",
+      "title": "A Vision Built to Last",
+      "p1": "Eiffelya was established to be Aleppo's premier destination for 'Luxury Casual Dining.' Inspired by European sophistication, we blended it with the authentic Aleppine hospitality we hold dear.",
+      "p2": "In our kitchen, we don't just cook; we craft dishes that range from classic American burgers to authentic Italian pizzas, with innovative touches that make every meal a story worth telling.",
+      "p3": "Eiffelya is more than just a place to eat; it is a home for every family that appreciates art, beauty, and refined taste."
+    },
+    "philosophy": {
+      "label": "Our Philosophy",
+      "title": "The Three Pillars",
+      "description": "We adhere to strict standards to ensure an unforgettable experience with every visit.",
+      "items1":
+        {
+          "title": "Quality First",
+          "description": "We source the finest meats and freshest ingredients daily to deliver world-class dishes with a professional touch."
+        },
+      "items2": {
+          "title": "Effortless Elegance",
+          "description": "Our space is designed to be comfortable for families and sophisticated for events—a perfect balance of warmth and luxury."
+        },
+      "items3": {
+          "title": "The Spirit of Aleppo",
+          "description": "Despite our international flair, we remain rooted in the Aleppine hospitality that makes every guest feel at home."
+        }
+      
+    },
+    "CTASection": {
+      "title": "Be Part of Our Journey",
+      "description": "Every evening, new chapters of refined taste are written around our tables. We look forward to welcoming you to create unforgettable memories together.",
+      "button": "Contact Us Now",
+      "secondaryButton": "Meet Our Team"
+}
+    
+  },
+  "CTA": {
+    "title": "Ready to Experience Eiffelya?",
+    "description": "Whether it is an intimate dinner for two or a grand family celebration, we would love to welcome you to our table.",
+    "button": "Book Now",
+    "contact": "Contact Us",
+    "team": "Meet Our Team"
+  },
+"Footer": {
+  "description": "Eiffelya is a refined family restaurant in Aleppo, where European elegance meets the warmth of Aleppine hospitality for an unforgettable dining experience.",
+  "navTitle": "Navigate",
+  "links": {
+    "story": "Our Story",
+    "team": "The Team",
+    "location": "Location",
+    "menu": "Full Menu",
+    "contact": "Contact"
+  },
+  "locationTitle": "Location",
+  "address": "Aleppo, Al-Mokambo, next to Etihad Pool",
+  "contactTitle": "Get in Touch",
+  "newsletter": "Newsletter",
+  "newsletterDesc": "Subscribe for exclusive offers and seasonal menu updates.",
+  "rights": "All rights reserved.",
+  "privacy": "Privacy Policy",
+  "terms": "Terms of Service"
+},
+"ContactPage": {
+  "header": {
+    "label": "Contact Us",
+    "title": "We Would Love to Hear From You",
+    "description": "Whether you want to make a reservation or inquire about private events, our team is always here to help."
+  },
+  "form": {
+    "title": "Contact Us",
+    "description": "Fill out the form and you will be redirected directly to WhatsApp.",
+    "fields": {
+      "fullName": "Full Name",
+      "phone": "Your Phone Number",
+      "department": "Who to contact?",
+      "message": "Your Message",
+      "placeholders": {
+        "fullName": "Enter your full name",
+        "phone": "09XXXXXXXX",
+        "department": "Select the right department",
+        "message": "Write your message here..."
+      },
+      "departments": {
+        "fastFood": "Fast Food",
+        "restaurant": "Restaurant & Reservations",
+        "management": "Management & Complaints"
+      }
+    },
+    "whatsapp": {
+      "header": "Message from Eiffelya Website",
+      "name": "Name:",
+      "phone": "Contact Number:",
+      "message": "Message:"
+    },
+    "preview": {
+      "title": "Message Preview",
+      "to": "To:"
+    },
+    "submit": "Send via WhatsApp"
+  },
+  "info": {
+"generalInquiries": "General Inquiries",
+"supportEmail": "info@eiffelyasyria.com",
+"supportPhone": "+963941172242"
+}
+},
+
+"LocationSection": {
+  "label": "Explore Our Space",
+  "title": "One Destination, Two Unique Experiences",
+  "description": "Under one roof in the heart of Aleppo, we’ve blended the elegance of classic dining with the vibrant energy of gourmet fast food. Two distinct floors, each with its own soul, flavor, and identity.",
+  "floors": {
+    "classic": {
+      "name": "Eiffelya Classic (First Floor)",
+      "tagline": "Elegant Dining & Authentic Flavors",
+      "description": "Dedicated to those who seek tranquility and refined taste, serving a masterful blend of Eastern and Western cuisine in a sophisticated family atmosphere."
+    },
+    "express": {
+      "name": "Eiffelya Fast Food (Second Floor)",
+      "tagline": "Speed, Quality, & Irresistible Taste",
+      "description": "Where energy meets global flavors; from gourmet burgers to Napoletana pizzas, we serve your favorites with Eiffelya’s unique touch in a modern setting."
+    }
+  },
+  "label_map": "Our Location",
+  "title_map": "At the Heart of the City",
+  "description_map": "We welcome you to Eiffelya in an elegant setting with a convenient location, where refined hospitality and exceptional flavors come together in every visit.",
+  "openMap": "Open in Google Maps"
+},
+  "MenuPage": {
+    "hero": {
+      "label": "Our Menu",
+      "title": "An Exceptional Dining Experience for Every Taste",
+      "description": "From refined hospitality to globally inspired flavors, discover a culinary experience where elegance, comfort, and unforgettable taste come together."
+    },
+    "events": {
+      "label": "Private Events",
+      "title": "Celebrate Your Moments in Style",
+      "description": "From elegant family gatherings to sophisticated corporate dinners, we offer refined spaces and exceptional service designed to make every occasion memorable.",
+      "cta": "Inquire About Private Events"
+    },
+    "viewMenu": "Explore Menu",
+    "family": {
+      "name": "Eiffelya ",
+      "tagline": "Elegant Dining for Family Gatherings",
+      "description": "A refined dining destination designed for families and friends to gather around rich flavors and timeless recipes, complemented by a warm atmosphere and exceptional hospitality.",
+      "features": [
+        "Elegant Classic Ambiance",
+        "Comfortable Family Seating",
+        "Signature Gourmet Dishes"
+      ],
+      "days1": "Daily"
+    },
+    "fastFood": {
+      "name": "Eiffelya Fast Food",
+      "tagline": "Fast Service, Elevated Flavor",
+      "description": "A modern fast-casual experience combining speed, premium ingredients, and bold flavors — crafted for those who value quality without slowing down.",
+      "features": [
+        "Fast & Professional Service",
+        "Modern Signature Meals",
+        "Quick Takeaway Experience"
+      ],
+      "days1": "Daily"
+    }
+  },
+  "Metadata": {
+    "root": {
+      "title": "Eiffelya | Luxury Casual Dining in Aleppo",
+      "template": "%s | Eiffelya",
+      "description": "Eiffelya is your destination for a refined and comfortable dining experience in Aleppo. A masterful fusion of Eastern and Western cuisine in a European ambiance.",
+      "keywords": ["Eiffelya Restaurant", "Aleppo Restaurants", "Best Restaurant in Aleppo", "Family Dining Aleppo", "Fine Dining Aleppo", "Gourmet Burger Aleppo", "Neapolitan Pizza Aleppo", "Luxury Dining"],
+      "ogTitle": "Eiffelya - Where Elegance Meets Aleppo's Warmth"
+    },
+    "about": {
+      "title": "Our Story",
+      "description": "Discover the journey of Eiffelya, from vision to reality in the heart of Aleppo. Our passion for delivering an extraordinary dining experience."
+    },
+    "menu": {
+      "title": "Our Menu",
+      "description": "Explore Eiffelya's menu: from premium American burgers and Italian pizzas to refined family meals in Aleppo."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "description": "Get in touch with Eiffelya Restaurant to book your table or inquire about private events in Aleppo.",
+      "descriptionq": "Get in touch with Eiffelya Restaurant to book your table or inquire about private events in Aleppo."
+    }
+  
+}
+}
